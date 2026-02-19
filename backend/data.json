@@ -1,0 +1,14 @@
+{
+  "members": [
+    "Parteek Jha"
+  ],
+  "expenses": [
+    {
+      "id": 1771515621746,
+      "paidBy": "Parteek Jha",
+      "amount": 110,
+      "description": "For Burger",
+      "date": "2026-02-19T15:40:21.746Z"
+    }
+  ]
+}
